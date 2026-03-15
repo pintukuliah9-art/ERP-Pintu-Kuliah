@@ -1,0 +1,7 @@
+{
+  "name": "salinan 06/12 - Aplikasi Sistem Satu Pintu",
+  "description": "A centralized operational dashboard for enterprise teams to access tools, SOPs, workflows, and resources in a unified interface.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
